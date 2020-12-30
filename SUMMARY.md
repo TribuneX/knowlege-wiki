@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
 * [macOS](macos.md)
 
