@@ -1,8 +1,8 @@
 ---
-description: Everything I need to know about macOS and my used apps on this platform.
+description: Everything I need to know about the shell on macOS.
 ---
 
-# macOS
+# shell
 
 ## Dotfiles
 
