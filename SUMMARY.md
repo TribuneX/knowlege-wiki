@@ -4,4 +4,8 @@
 * [macOS](macos.md)
 * [TODOs](todos.md)
 
+## Software Development
+
+* [IDEs](software-development/ides.md)
+* [Git](software-development/git.md)
 
