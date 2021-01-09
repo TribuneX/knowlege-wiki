@@ -2,7 +2,7 @@
 description: This pages contains a list of topics I still want to document.
 ---
 
-# Open Topics to be documented
+# TODOs
 
 * Backup Tools / Strategy
 * Home Server
@@ -10,7 +10,8 @@ description: This pages contains a list of topics I still want to document.
 * RSS
 * Link Online Profiles
 * Tools I use:
-    * 1Password
-    * Alfred
-    * MoneyMoney + Umsatz
-    * Intellij
+  * 1Password
+  * Alfred
+  * MoneyMoney + Umsatz
+  * Intellij
+
