@@ -11,5 +11,5 @@
 ## macOS
 
 * [shell](macos/shell.md)
-  * [Apps](macos/apps)
-    * [Alfred](macos/apps/alfred.md)
+* [Apps](macos/apps/apps.md)
+  * [Alfred](macos/apps/alfred.md)
