@@ -13,3 +13,7 @@
 * [shell](macos/shell.md)
 * [Apps](macos/apps/apps.md)
   * [Alfred](macos/apps/alfred.md)
+
+## Home Automation
+
+* [Home Automation](home-automation/home-automation.md) 
