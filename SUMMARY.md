@@ -3,17 +3,13 @@
 * [Introduction](README.md)
 * [TODOs](todos.md)
 
-## Software Development
+* Software Development
+  * [IDEs](software-development/ides.md)
+  * [Git](software-development/git.md)
 
-* [IDEs](software-development/ides.md)
-* [Git](software-development/git.md)
+* macOS
+  * [shell](macos/shell.md)
+  * [Apps](macos/apps/apps.md)
+    * [Alfred](macos/apps/alfred.md)
 
-## macOS
-
-* [shell](macos/shell.md)
-* [Apps](macos/apps/apps.md)
-  * [Alfred](macos/apps/alfred.md)
-
-## Home Automation
-
-* [Home Automation](home-automation/home-automation.md) 
+* [Home Automation](home-automation/home-automation.md)
