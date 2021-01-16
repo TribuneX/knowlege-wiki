@@ -11,5 +11,6 @@
   * [shell](macos/shell.md)
   * [Apps](macos/apps/apps.md)
     * [Alfred](macos/apps/alfred.md)
+  * [Mouseless](macos/mouseless.md)
 
 * [Home Automation](home-automation/home-automation.md)
